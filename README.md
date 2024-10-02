@@ -1,5 +1,5 @@
 Aditya Umekar - Portfolio
-Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences as a [insert your title, e.g., Digital Marketer, Developer, Designer, etc.].
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences.
 
 🌟 About Me
 I'm Aditya Umekar, a passionate and curious learner with a deep interest in electronics, telecommunication, web design, and AI. My journey has been a combination of creativity, technical skills, and an entrepreneurial mindset.
